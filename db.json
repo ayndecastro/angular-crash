@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "todo": "Zeke morning walk",
+      "time": "07:30AM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "todo": "Cook breakfast",
+      "time": "08:00AM",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "todo": "Feed Zeke breakfast",
+      "time": "08:30AM",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "todo": "work",
+      "time": "10:00AM",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "todo": "Make dinner",
+      "time": "03:00PM",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "todo": "Zeke afternoon walk",
+      "time": "05:30PM",
+      "reminder": false
+    },
+    {
+      "id": 7,
+      "todo": "Feed Zeke dinner",
+      "time": "08:30PM",
+      "reminder": true
+    },
+    {
+      "todo": "sleep",
+      "time": "10:30PM",
+      "reminder": false,
+      "id": 8
+    }
+  ]
+}
